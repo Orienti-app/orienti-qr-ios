@@ -4,3 +4,5 @@ public struct QROrienti {
     public init() {
     }
 }
+
+// Q23xaj@kub
