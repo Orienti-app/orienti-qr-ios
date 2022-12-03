@@ -1,4 +1,4 @@
-public struct orienti_qr_ios {
+public struct QROrienti {
     public private(set) var text = "Hello, World!"
 
     public init() {
