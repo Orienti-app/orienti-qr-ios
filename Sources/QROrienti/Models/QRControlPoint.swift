@@ -1,8 +1,8 @@
 import Foundation
 
 public struct QRControlPoint: Codable {
-    let code: String
-    let id: UUID
-    let name: String
-    let updatedAt: Date
+    public let code: String
+    public let id: UUID
+    public let name: String
+    public let updatedAt: Date
 }

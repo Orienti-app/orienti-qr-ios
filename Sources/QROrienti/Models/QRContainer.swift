@@ -1,8 +1,8 @@
 import Foundation
 
 public struct QRContainer: Codable {
-    let type: QRType
-    let run: QRRun?
-    let controlPoint: QRControlPoint?
-    let track: QRTrackContainer?
+    public let type: QRType
+    public let run: QRRun?
+    public let controlPoint: QRControlPoint?
+    public let track: QRTrackContainer?
 }
